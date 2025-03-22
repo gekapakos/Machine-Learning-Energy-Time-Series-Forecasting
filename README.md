@@ -31,3 +31,11 @@
 - **Metrics**: RMSE, MAPE, R², MAE; R² prioritized.
 - **Results**: LSTM best (R²=0.997), deep learning outperforms ML (XGBoost R²=0.78) and baseline.
 - **Runtime**: Naive fastest (0.00006s), Random Forest slowest (200s), deep learning moderate (55-122s on T4 GPU).
+
+## File Description
+1. Machine-Learning-Final: A Report describing the project
+2. ML-final-Project: A ppt presentation of the project
+3. Team-26-final-project: The jupyter notebook containing the code for the project
+4. energy-data-complete: The .csv file used for the project.
+
+
